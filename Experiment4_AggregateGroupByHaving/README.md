@@ -1,7 +1,7 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
 
-NAME: SUMITH 
-
+NAME: SUMITH M
+ 
 REG NO: 212224230279
 
 ## AIM
